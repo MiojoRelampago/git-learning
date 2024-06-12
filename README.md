@@ -34,3 +34,8 @@ We can use the command FETCH for it, it work's just like PULL but instead of dow
 # Learning about new branches
 
 In this case, imagine that you and your friend are working on a project, but in the middle of the project both of you have different ideas on different spots of your code, both of you can work on each desired content and implement new things, and afterwards, merge it all together to create a new branch, the versions of it, will still be saved upon add, staging and commiting to the code. Upon checking the ([Testing](https://github.com/MiojoRelampago/git-learning/blob/testing/.gitignore)) branch, you'll see about different branches and codes that can be on different versions of it.
+
+# Learning more about merge
+
+After learning about branches, versions, and how you can change your code and it's states. You and your friend that have been working on different branches but on the same code, want to merge your ideas into one solid branch/code, how can you do that?
+Using the MERGE on the branch that you want to receive the differences, so imagine that on a different branch, has a file that you don't have but need it, you can then merge this two branches, and receive all the content that was done within the other branch, files, new lines in the code, and etc.
