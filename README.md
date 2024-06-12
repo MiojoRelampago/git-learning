@@ -30,3 +30,7 @@ But let's say that you want to pull a change from your branch that was done, but
 We can use the command FETCH for it, it work's just like PULL but instead of downloading and merging, it will download it and be stored upon to check
 
 **THIS CHANGE WILL BE DONE WITHIN GITHUB AND FETCHED ON TO THE CODE FOR TEST**
+
+# Learning about new branches
+
+In this case, imagine that you and your friend are working on a project, but in the middle of the project both of you have different ideas on different spots of your code, both of you can work on each desired content and implement new things, and afterwards, merge it all together to create a new branch, the versions of it, will still be saved upon add, staging and commiting to the code. Upon checking the "testing" branch, you'll see about different branches and codes that can be on different versions of it.
