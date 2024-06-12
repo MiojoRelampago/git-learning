@@ -1,5 +1,7 @@
 # git-learning
+
 Learning about git and >:D
+
 # First Step
 
 This is the first change i'll be doing in git commands using git add to stage the content
@@ -22,4 +24,7 @@ Upon using it, the changes that couldn't be checked on the website, will be on t
 This changes will all be sent to the desired place but let's talk like we are working on a team, that made different changes on a branch, and commited them, what can you do in this case?
 You can use directly the command PULL to "download" all the changes that have been done within that branch you're working on and merge with your current code
 
-** THIS IS CHANGE THAT WAS DONE WITHIN THE GITHUB AND WILL BE PULLED ON TO TEST **
+**THIS IS CHANGE THAT WAS DONE WITHIN THE GITHUB AND WILL BE PULLED ON TO TEST**
+
+But let's say that you want to pull a change from your branch that was done, but you don't want to merge it yet, you want to check the differences from your current code and from there, you might wanna merge and add to your current code
+We can use the command FETCH for it, it work's just like PULL but instead of downloading and merging, it will download it and be stored upon to check
