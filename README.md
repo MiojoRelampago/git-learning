@@ -21,3 +21,5 @@ On this change, we will be using PUSH to send this changes directly into the our
 Upon using it, the changes that couldn't be checked on the website, will be on this new version of the code
 This changes will all be sent to the desired place but let's talk like we are working on a team, that made different changes on a branch, and commited them, what can you do in this case?
 You can use directly the command PULL to "download" all the changes that have been done within that branch you're working on and merge with your current code
+
+** THIS IS CHANGE THAT WAS DONE WITHIN THE GITHUB AND WILL BE PULLED ON TO TEST **
