@@ -9,3 +9,8 @@ Or if you're using VSC like me, you can check directly upon the UI the changes t
 
 # Using LOG and RESTORE
 
+Using the command LOG, you can get some info on the previous launches that were done into this files and it's hashes
+Hashes are the way that git/github can turn back to previous versions of a code that were changed
+
+Restore whatsoever, rests on "Restoring" to the previous changes, not exactly a previous version, but if you made new changes into your git, you can turn back with RESTORE
+This can be done on modified state or staged state, if you made a -add but changed your mind midway of the process, you remove it from the staged state or modified if used again
